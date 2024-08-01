@@ -1,1 +1,1 @@
-The main Objective of this project is to create a simple insight about the customer churn happening.
+The main Objective of this project is to create a simple insight about the customer churn happening.Leverage Excel formulas to calculate derived metrics or perform necessary computations. Common functions include SUM, AVERAGE, COUNT, and others. Create various types of charts (e.g., bar charts, line charts, scatter plots) to visually represent relationships, distributions, or trends within the data.
